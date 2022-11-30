@@ -533,6 +533,7 @@ Yash Rustogi
 - [Etinosa Ekhator](https://github.com/Etinosa22)
 - [seongjunyeong](https://github.com/seongjunyeong)
 - [Jungmw03](https://github.com/Jungmw03)
+- [Manish GS Parmar@DevsocPI](https://github.com/ManishWho)
 - [Dmitry Golovach](https://github.com/dagolovach)
 - [yutakdv](https://github.com/yutakdv)
 - [TurtleJay](https://github.com/TurtleJay)
